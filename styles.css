@@ -1,0 +1,53 @@
+h1 {
+    color:rgb(70, 182, 18)
+}
+
+h2 {
+    color:rgb(113, 196, 30)
+}
+
+h3 {
+    color:rgb(58, 16, 136)
+}
+
+h4{
+    color:rgb(223, 60, 182)
+}
+
+h5 {
+    color:deeppink
+}
+
+h6{
+    color:indianred
+}
+
+header{
+    display: inline-block;
+    font-size: 16px; 
+    vertical-align: middle;
+    height: 100%;
+    line-height: 45px;
+}
+
+.navbar{
+    width: 70%;
+    text-align: center;
+    color:#025157;
+    line-height: 45px;
+    font: sans-serif;
+}
+
+.actions {
+    width: 15%;
+    text-align: right;
+    font-size: 14px;
+    color: #67b54b;
+    
+}
+
+.signbutton {
+    color: blanchedalmond;
+    background-color: #67b54b;
+
+}
